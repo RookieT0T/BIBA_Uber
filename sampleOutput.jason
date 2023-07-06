@@ -1,0 +1,178 @@
+[
+    {'bounds': {'northeast': {'lat': 40.4636505, 'lng': -79.94775630000001
+            }, 'southwest': {'lat': 40.4404088, 'lng': -79.9961879
+            }
+        }, 'copyrights': 'Map data ©2023 Google', 'legs': [
+            {'distance': {'text': '3.2 mi', 'value': 5172
+                }, 'duration': {'text': '9 mins', 'value': 550
+                }, 'duration_in_traffic': {'text': '9 mins', 'value': 568
+                }, 'end_address': '530 William Penn Pl, Pittsburgh, PA 15219, USA', 'end_location': {'lat': 40.4404088, 'lng': -79.9961879
+                }, 'start_address': '4765 Liberty Ave, Pittsburgh, PA 15224, USA', 'start_location': {'lat': 40.4609696, 'lng': -79.94775630000001
+                }, 'steps': [
+                    {'distance': {'text': '0.3 mi', 'value': 520
+                        }, 'duration': {'text': '2 mins', 'value': 132
+                        }, 'end_location': {'lat': 40.4636338, 'lng': -79.95280600000001
+                        }, 'html_instructions': 'Head <b>northwest</b> on <b>Liberty Ave</b> toward <b>Edmond St</b>', 'polyline': {'points': 'ap
+                        }uFnx
+                    }fN
+                ]t@m@xAo@xAq@xAq@bBMVe@dAe@fAS`@e@dAq@~AKTOZKTUj@IPGNOZELGZ'
+            }, 'start_location': {'lat': 40.4609696, 'lng': -79.94775630000001
+            }, 'travel_mode': 'DRIVING'
+        },
+        {'distance': {'text': '0.4 mi', 'value': 650
+            }, 'duration': {'text': '1 min', 'value': 80
+            }, 'end_location': {'lat': 40.4589644, 'lng': -79.9572827
+            }, 'html_instructions': 'Turn <b>left</b> onto <b>Bloomfield Bridge</b>', 'maneuver': 'turn-left', 'polyline': {'points': 'u`~uF`x~fNCXTPJJJHVRTT@?\\^j@f@dAbAjA`A\\ZvBvBNNFFFFDB@@?@@@RT\\Z\\XFFRPHHFFJH@?BBZX`@V^ZRP@@DDTR@?FFBBf@b@v@t@NLPN'
+            }, 'start_location': {'lat': 40.4636338, 'lng': -79.95280600000001
+            }, 'travel_mode': 'DRIVING'
+        },
+        {'distance': {'text': '2.1 mi', 'value': 3350
+            }, 'duration': {'text': '4 mins', 'value': 232
+            }, 'end_location': {'lat': 40.4440634, 'lng': -79.9911505
+            }, 'html_instructions': 'Turn <b>right</b> onto <b>Bigelow Blvd</b>', 'maneuver': 'turn-right', 'polyline': {'points': 'oc
+            }uF~s_gNJVFNBF@BHZANAXAX?R?D?P@R@P?DBPBTBLFVx@fCFTdAdDFPd@zAb@vAn@pBv@fCjAtDb@tAZ|@Ph@`@lA@BDNVt@XvALf@Jf@r@zCLh@Hb@PjAFXHj@BRFXFZDNDTRr@Rt@DNHXPh@^rALb@@@^pA@DLb@Pn@Nh@BFJZpApE?@@BX~@DLPj@FPFRBFPd@P`@N^Vj@Xh@NZBDVf@T^DF^n@HJRZ\\h@FLLTDHPXDJLXLVFNJXDLRf@BHJ^DHPt@FRBFHb@BHTpALbAHr@LhAB^Fb@Hn@Hn@@BD^FZFZBPDT@DF\\Tv@Lf@FX@BHZLb@BF@DL`@HRBLBFFPN^FP@BBFN^@B@BVh@LZBFRf@NZbAzBf@lALZZp@R^@BVb@@Bj@bATb@n@hATb@l@fA|AnCTb@l@fAVd@l@fAr@nAVd@Rb@JRHNDFPZ`@v@HPHRDHHHDFDH@BNTNVDHNVBDBB\\l@BBLRV`@'
+        }, 'start_location': {'lat': 40.4589644, 'lng': -79.9572827
+        }, 'travel_mode': 'DRIVING'
+    },
+    {'distance': {'text': '0.2 mi', 'value': 394
+        }, 'duration': {'text': '1 min', 'value': 30
+        }, 'end_location': {'lat': 40.4414526, 'lng': -79.9941825
+        }, 'html_instructions': 'Keep <b>right</b> to stay on <b>Bigelow Blvd</b>', 'maneuver': 'keep-right', 'polyline': {'points': 'kfzuFtgfgNXl@t@xAXd@@@^p@RZJTZf@JNJNLPRTLJBDDBLJ?@JXTRVPHFLJHDPJJHTL\\RFDj@\\'
+        }, 'start_location': {'lat': 40.4440634, 'lng': -79.9911505
+        }, 'travel_mode': 'DRIVING'
+    },
+    {'distance': {'text': '325 ft', 'value': 99
+        }, 'duration': {'text': '1 min', 'value': 17
+        }, 'end_location': {'lat': 40.4406724, 'lng': -79.99473480000002
+        }, 'html_instructions': 'Continue straight onto <b>Bigelow Sq</b>', 'maneuver': 'straight', 'polyline': {'points': 'avyuFrzfgNVPRLJFLJPLRNDBLHNFJD'
+        }, 'start_location': {'lat': 40.4414526, 'lng': -79.9941825
+        }, 'travel_mode': 'DRIVING'
+    },
+    {'distance': {'text': '338 ft', 'value': 103
+        }, 'duration': {'text': '1 min', 'value': 40
+        }, 'end_location': {'lat': 40.4407442, 'lng': -79.99584039999999
+        }, 'html_instructions': 'Turn <b>right</b> onto <b>Sixth Ave</b>', 'maneuver': 'turn-right', 'polyline': {'points': 'eqyuF`~fgNBNDFBHBF@HH\\Or@CVERCLCFIT'
+        }, 'start_location': {'lat': 40.4406724, 'lng': -79.99473480000002
+        }, 'travel_mode': 'DRIVING'
+    },
+    {'distance': {'text': '184 ft', 'value': 56
+        }, 'duration': {'text': '1 min', 'value': 19
+        }, 'end_location': {'lat': 40.4404088, 'lng': -79.9961879
+        }, 'html_instructions': 'Turn <b>left</b> onto <b>Grant St</b><div style="font-size:0.9em">Destination will be on the right</div>', 'maneuver': 'turn-left', 'polyline': {'points': 'sqyuF~dggNIRTLXPRLFB'
+        }, 'start_location': {'lat': 40.4407442, 'lng': -79.99584039999999
+        }, 'travel_mode': 'DRIVING'
+    }
+], 'traffic_speed_entry': [], 'via_waypoint': []
+}
+], 'overview_polyline': {'points': 'ap
+}uFnx
+}fNyHlQsDlIWj@Mh@CXTPJJz@r@hAfApCdClDjDNNpAlAl@j@PLpB~ArAjAfAbAPNJVJVJ^EvAB|@Jz@`A~ClAzD`CvHbEpMz@jCVt@XvAXnA`AdEZnB\\rBf@tBt@hC`CnItCtJd@rAx@lBdArBdAbBfAhBj@hAf@nAh@zAf@tBXzAVvBb@|DXnBRhAr@vCz@tCz@zBzD~I|@lBfAnBbIzNzDhHz@fBTZ|AjCbAfBnA~B`@r@fAhBl@v@d@`@?@JXTR`@XVPpAv@~CtBn@ZPh@Jf@SjAW~@IRTLl@^FB'
+}, 'summary': 'Bigelow Blvd', 'warnings': [], 'waypoint_order': []
+},
+{'bounds': {'northeast': {'lat': 40.4636505, 'lng': -79.94775630000001
+}, 'southwest': {'lat': 40.4404088, 'lng': -79.9961879
+}
+}, 'copyrights': 'Map data ©2023 Google', 'legs': [
+{'distance': {'text': '3.6 mi', 'value': 5847
+}, 'duration': {'text': '11 mins', 'value': 686
+}, 'duration_in_traffic': {'text': '11 mins', 'value': 668
+}, 'end_address': '530 William Penn Pl, Pittsburgh, PA 15219, USA', 'end_location': {'lat': 40.4404088, 'lng': -79.9961879
+}, 'start_address': '4765 Liberty Ave, Pittsburgh, PA 15224, USA', 'start_location': {'lat': 40.4609696, 'lng': -79.94775630000001
+}, 'steps': [
+{'distance': {'text': '1.1 mi', 'value': 1753
+}, 'duration': {'text': '5 mins', 'value': 285
+}, 'end_location': {'lat': 40.4615787, 'lng': -79.9670845
+}, 'html_instructions': 'Head <b>northwest</b> on <b>Liberty Ave</b> toward <b>Edmond St</b>', 'polyline': {'points': 'ap
+}uFnx
+}fN
+]t@m@xAo@xAq@xAq@bBMVe@dAe@fAS`@e@dAq@~AKTOZKTUj@IPGNOZELGZCX@XBRFXBLRbAJl@DPRxBNzA\\pDTbCR`CXxCZbDNzAFn@Fn@LzAPhBTjCN~AHxA@TFrA?FNrDHpBBl@Bn@FhAFzABj@?FF`A@`@HhB'
+}, 'start_location': {'lat': 40.4609696, 'lng': -79.94775630000001
+}, 'travel_mode': 'DRIVING'
+},
+{'distance': {'text': '0.6 mi', 'value': 918
+}, 'duration': {'text': '3 mins', 'value': 155
+}, 'end_location': {'lat': 40.45576130000001, 'lng': -79.9659731
+}, 'html_instructions': 'Turn <b>left</b> onto <b>Herron Ave</b>', 'maneuver': 'turn-left', 'polyline': {'points': '{s
+}uFfqagN`@M@?BAFANELEPGf@Ob@QBAXId@QBCBAVK~@
+]HCZMBA`@OFCNIJEFEHGNGLGBA?AVMBABAPIl@UHEFE@CDCBEBG@I@IAGAIAICEEECCKEWEMCICECCECECGCGAI?I@K@IBGDG@ADCv@i@\\SNKz@k@f@[DABAD?@@BBDFDFX^X`@JNX`@h@t@Zd@NRx@t@`@\\x@v@@@XXLJF@'
+}, 'start_location': {'lat': 40.4615787, 'lng': -79.9670845
+}, 'travel_mode': 'DRIVING'
+},
+{'distance': {'text': '1.6 mi', 'value': 2524
+}, 'duration': {'text': '2 mins', 'value': 140
+}, 'end_location': {'lat': 40.4440634, 'lng': -79.9911505
+}, 'html_instructions': 'Turn <b>right</b> onto <b>Bigelow Blvd</b>', 'maneuver': 'turn-right', 'polyline': {'points': 'oo|uFhjagNJf@r@zCLh@Hb@PjAFXHj@BRFXFZDNDTRr@Rt@DNHXPh@^rALb@@@^pA@DLb@Pn@Nh@BFJZpApE?@@BX~@DLPj@FPFRBFPd@P`@N^Vj@Xh@NZBDVf@T^DF^n@HJRZ\\h@FLLTDHPXDJLXLVFNJXDLRf@BHJ^DHPt@FRBFHb@BHTpALbAHr@LhAB^Fb@Hn@Hn@@BD^FZFZBPDT@DF\\Tv@Lf@FX@BHZLb@BF@DL`@HRBLBFFPN^FP@BBFN^@B@BVh@LZBFRf@NZbAzBf@lALZZp@R^@BVb@@Bj@bATb@n@hATb@l@fA|AnCTb@l@fAVd@l@fAr@nAVd@Rb@JRHNDFPZ`@v@HPHRDHHHDFDH@BNTNVDHNVBDBB\\l@BBLRV`@'
+}, 'start_location': {'lat': 40.45576130000001, 'lng': -79.9659731
+}, 'travel_mode': 'DRIVING'
+},
+{'distance': {'text': '0.2 mi', 'value': 394
+}, 'duration': {'text': '1 min', 'value': 30
+}, 'end_location': {'lat': 40.4414526, 'lng': -79.9941825
+}, 'html_instructions': 'Keep <b>right</b> to stay on <b>Bigelow Blvd</b>', 'maneuver': 'keep-right', 'polyline': {'points': 'kfzuFtgfgNXl@t@xAXd@@@^p@RZJTZf@JNJNLPRTLJBDDBLJ?@JXTRVPHFLJHDPJJHTL\\RFDj@\\'
+}, 'start_location': {'lat': 40.4440634, 'lng': -79.9911505
+}, 'travel_mode': 'DRIVING'
+},
+{'distance': {'text': '325 ft', 'value': 99
+}, 'duration': {'text': '1 min', 'value': 17
+}, 'end_location': {'lat': 40.4406724, 'lng': -79.99473480000002
+}, 'html_instructions': 'Continue straight onto <b>Bigelow Sq</b>', 'maneuver': 'straight', 'polyline': {'points': 'avyuFrzfgNVPRLJFLJPLRNDBLHNFJD'
+}, 'start_location': {'lat': 40.4414526, 'lng': -79.9941825
+}, 'travel_mode': 'DRIVING'
+},
+{'distance': {'text': '338 ft', 'value': 103
+}, 'duration': {'text': '1 min', 'value': 40
+}, 'end_location': {'lat': 40.4407442, 'lng': -79.99584039999999
+}, 'html_instructions': 'Turn <b>right</b> onto <b>Sixth Ave</b>', 'maneuver': 'turn-right', 'polyline': {'points': 'eqyuF`~fgNBNDFBHBF@HH\\Or@CVERCLCFIT'
+}, 'start_location': {'lat': 40.4406724, 'lng': -79.99473480000002
+}, 'travel_mode': 'DRIVING'
+},
+{'distance': {'text': '184 ft', 'value': 56
+}, 'duration': {'text': '1 min', 'value': 19
+}, 'end_location': {'lat': 40.4404088, 'lng': -79.9961879
+}, 'html_instructions': 'Turn <b>left</b> onto <b>Grant St</b><div style="font-size:0.9em">Destination will be on the right</div>', 'maneuver': 'turn-left', 'polyline': {'points': 'sqyuF~dggNIRTLXPRLFB'
+}, 'start_location': {'lat': 40.4407442, 'lng': -79.99584039999999
+}, 'travel_mode': 'DRIVING'
+}
+], 'traffic_speed_entry': [], 'via_waypoint': []
+}
+], 'overview_polyline': {'points': 'ap
+}uFnx
+}fNyHlQsDlIWj@Mh@CX@XJl@h@pCvAjOhC`Yd@jFJnB`@`Kd@zKHhB`@MDAv@UnDqAhBq@dAc@nAq@lAg@RSDQ?QCSIKOIWEWGIIGMEQ@UDQdAw@pCgBHCF@h@r@hBhCj@x@zArAbB~AF@Jf@`AdEl@tDXxAr@nChAzDbBzFlBvGf@~Av@nB`ApBrCvEl@fAh@lAh@xAj@rBf@fCVvBPhB\\fCXhBd@pB`@`Bz@nChAnCjE~J`D|F~IdPdCzEN\\NPVb@|AhC`CnE`AdB`AxAd@f@RPJXTR`@Xt@f@fBdA~B~AZLHVRx@
+]lBM\\IRTLl@^FB'
+}, 'summary': 'Liberty Ave and Bigelow Blvd', 'warnings': [], 'waypoint_order': []
+},
+{'bounds': {'northeast': {'lat': 40.4636505, 'lng': -79.94775630000001
+}, 'southwest': {'lat': 40.4404088, 'lng': -79.9961879
+}
+}, 'copyrights': 'Map data ©2023 Google', 'legs': [
+{'distance': {'text': '3.2 mi', 'value': 5191
+}, 'duration': {'text': '13 mins', 'value': 764
+}, 'duration_in_traffic': {'text': '12 mins', 'value': 736
+}, 'end_address': '530 William Penn Pl, Pittsburgh, PA 15219, USA', 'end_location': {'lat': 40.4404088, 'lng': -79.9961879
+}, 'start_address': '4765 Liberty Ave, Pittsburgh, PA 15224, USA', 'start_location': {'lat': 40.4609696, 'lng': -79.94775630000001
+}, 'steps': [
+{'distance': {'text': '3.0 mi', 'value': 4757
+}, 'duration': {'text': '11 mins', 'value': 646
+}, 'end_location': {'lat': 40.4438924, 'lng': -79.9938691
+}, 'html_instructions': 'Head <b>northwest</b> on <b>Liberty Ave</b> toward <b>Edmond St</b>', 'polyline': {'points': 'ap
+}uFnx
+}fN
+]t@m@xAo@xAq@xAq@bBMVe@dAe@fAS`@e@dAq@~AKTOZKTUj@IPGNOZELGZCX@XBRFXBLRbAJl@DPRxBNzA\\pDTbCR`CXxCZbDNzAFn@Fn@LzAPhBTjCN~AHxA@TFrA?FNrDHpBBl@Bn@FhAFzABj@?FF`A@`@HhB@H@F@HDJBDDLFNZh@Vb@RZXb@b@v@PZf@x@v@pAfAhBV`@~AlCbBnC~AjCnApBLR`@p@d@v@Zf@zC`Ff@x@v@nAlArB\\j@^j@dDnFVb@`BjCbBpClBdDlB~ChAhBf@x@pBdD\\j@tA|BnAnBjAlBR\\FJzApCDHP^fApBVd@fApBjA|Bx@|A@@`@v@^v@\\t@Tf@Xl@Vf@l@hAVb@Tb@Td@l@fAl@hAzApCVf@Vd@Tb@Vb@\\n@?B@@@DDLFLFJ`@v@LTLPRXJLFHJH'
+}, 'start_location': {'lat': 40.4609696, 'lng': -79.94775630000001
+}, 'travel_mode': 'DRIVING'
+},
+{'distance': {'text': '0.3 mi', 'value': 434
+}, 'duration': {'text': '2 mins', 'value': 118
+}, 'end_location': {'lat': 40.4404088, 'lng': -79.9961879
+}, 'html_instructions': 'Continue straight onto <b>Grant St</b><div style="font-size:0.9em">Destination will be on the right</div>', 'maneuver': 'straight', 'polyline': {'points': 'iezuFtxfgNVNXPRJz@f@VPNFXPzA|@^TVNZR\\PrAv@v@d@v@d@TLTLXPRLFB'
+}, 'start_location': {'lat': 40.4438924, 'lng': -79.9938691
+}, 'travel_mode': 'DRIVING'
+}
+], 'traffic_speed_entry': [], 'via_waypoint': []
+}
+], 'overview_polyline': {'points': 'ap
+}uFnx
+}fNyHlQsDlIWj@Mh@CX@XJl@h@pCvAjOhC`Yd@jFJnB`@`Kd@zKJrBBPVn@vFlJbOlVhMvSbKpPlIhNtH~L~AjCbB|CvB`EnEnItBlEvBbEhH~Mv@xAVl@n@lA`@j@RVb@X`CvAdDlB`ItEt@b@'
+}, 'summary': 'Liberty Ave', 'warnings': [], 'waypoint_order': []
+}
+]
