@@ -7,3 +7,6 @@ This zip file contained all of raw data such as GPS coordinates and phone log fi
 # dataVisualization.py
 The main program filtered dirty data, unpacked useful data, converted pick-up and drop-off addresses of Uber trips into latitude and longitude coordinates via the Google Maps
 Geocoding API to call the Google Maps Directions API for suggested routes, and created visual representations of geospatial trajectories.
+
+# sampleOutput.jason
+The sample output returned by requesting Google Maps API, used for testing purpose.
